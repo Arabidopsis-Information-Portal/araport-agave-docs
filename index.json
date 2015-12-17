@@ -34,6 +34,10 @@
             "path": "/systems"
         },
         {
+            "description": "Araport Clients API",
+            "path": "/clients"
+        },
+        {
             "description": "Araport Data And Microservices API",
             "path": "/adama"
         }
